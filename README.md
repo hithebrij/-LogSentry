@@ -22,7 +22,7 @@ LogSentry is a lightweight, advanced Bash script that scans critical Linux syste
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/logsentry.git
+git clone https://github.com/hithebrij/LogSentry.git
 cd logsentry
 ```
 
